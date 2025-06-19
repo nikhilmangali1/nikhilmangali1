@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Mangali 👋
+# Hi, I'm Nikhil
 
 Backend Developer | 2025 B.Tech CSE Graduate | AI/ML Enthusiast | Based in Hyderabad
 
@@ -22,11 +22,11 @@ I build scalable backend systems and explore AI integration in real-world applic
 
 ## Projects
 
-**🛡️ Secure Complaint Management System** - Spring Boot + MongoDB + JWT authentication with RBAC • [View Project](https://github.com/nikhilmangali1/ComplaintLogger)
+**Secure Complaint Management System** - Spring Boot + MongoDB + JWT authentication with RBAC • [View Project](https://github.com/nikhilmangali1/ComplaintLogger)
 
-**💼 Job Web Portal** - RESTful APIs with JPA/Hibernate for comprehensive job management platform • [View Project](https://github.com/nikhilmangali1/JobPost)
+**Job Web Portal** - RESTful APIs with JPA/Hibernate for comprehensive job management platform • [View Project](https://github.com/nikhilmangali1/JobPost)
 
-**🎥 YouTube Transcriber** - AI-powered video transcription application using Gemini AI and Streamlit • [View Project](https://github.com/nikhilmangali1/yt_transcriber)
+**YouTube Transcriber** - AI-powered video transcription application using Gemini AI and Streamlit • [View Project](https://github.com/nikhilmangali1/yt_transcriber)
 
 ## Currently Learning
 
@@ -46,7 +46,6 @@ Data Structures & Algorithms • System Design • Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmangali1/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilmangali158@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919704894216)
 
 ---
 Feel free to reach out!
