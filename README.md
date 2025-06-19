@@ -46,4 +46,4 @@ Data Structures & Algorithms • System Design • Machine Learning
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilmangali158@gmail.com)
 
 ---
-Feel free to reach out!
+Reach out anytime!
