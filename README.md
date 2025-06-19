@@ -33,7 +33,7 @@ I build scalable backend systems and explore AI integration in real-world applic
 Data Structures & Algorithms • System Design • Machine Learning
 
 ## GitHub Stats
-https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmangali1&layout=compact&theme=radical&hide_border=true
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmangali1&layout=compact&theme=radical&hide_border=true)
 
 ## Coding Profiles
 
