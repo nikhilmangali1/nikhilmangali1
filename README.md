@@ -22,7 +22,7 @@ I build scalable backend systems and explore AI integration in real-world applic
 
 ## Projects
 
-**🛡️ Secure Complaint Management System** - Spring Boot + MongoDB + JWT authentication with role-based access control • [View Project](https://github.com/nikhilmangali1/ComplaintLogger)
+**🛡️ Secure Complaint Management System** - Spring Boot + MongoDB + JWT authentication with RBAC • [View Project](https://github.com/nikhilmangali1/ComplaintLogger)
 
 **💼 Job Web Portal** - RESTful APIs with JPA/Hibernate for comprehensive job management platform • [View Project](https://github.com/nikhilmangali1/JobPost)
 
