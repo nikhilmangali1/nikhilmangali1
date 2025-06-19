@@ -34,9 +34,6 @@ Data Structures & Algorithms • System Design • Machine Learning
 
 ## GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmangali1&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmangali1&layout=compact&theme=radical&hide_border=true)
-
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nikhilmangali1/)
@@ -51,3 +48,4 @@ Data Structures & Algorithms • System Design • Machine Learning
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919704894216)
 
 ---
+Feel free to reach out!
