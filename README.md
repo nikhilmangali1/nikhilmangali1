@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil
 
-Backend Developer | 2025 B.Tech CSE Graduate | AI/ML Enthusiast | Based in Hyderabad
+Backend Developer | 2025 B.Tech CSE Graduate
 
 ## About
 
@@ -39,11 +39,6 @@ Data Structures & Algorithms • System Design • Machine Learning
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikhilmangali158)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikhilmangali)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nikhilmangali1/)
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmangali1/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilmangali158@gmail.com)
 
 ---
 Reach out anytime!
