@@ -4,7 +4,7 @@ Backend Developer | 2025 B.Tech CSE Graduate
 
 ## About
 
-I build scalable backend systems and explore AI integration in real-world applications. Currently strengthening my DSA foundation while developing production-ready solutions.
+I build scalable backend systems and explore AI integration in real-world applications. Currently strengthening my DSA while developing production-ready solutions.
 
 ## Tech Stack
 
