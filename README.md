@@ -2,8 +2,6 @@
 
 Backend Developer | 2025 B.Tech CSE Graduate | AI/ML Enthusiast | Based in Hyderabad
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilmangali1&color=brightgreen&style=flat-square)
-
 ## About
 
 I build scalable backend systems and explore AI integration in real-world applications. Currently strengthening my DSA foundation while developing production-ready solutions.
